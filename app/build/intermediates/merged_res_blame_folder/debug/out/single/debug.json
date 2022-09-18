@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xhdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xhdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_activity_outcome.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/activity_outcome.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_activity_income.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/activity_income.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_coin.png.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/coin.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_pengatur.png.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/pengatur.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_button_box.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/button_box.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_listview_adapter_detail.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/listview_adapter_detail.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_hhh.png.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/hhh.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-anydpi-v21_ic_baseline_edit_calendar_24.xml.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-anydpi-v21/ic_baseline_edit_calendar_24.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxhdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_bg.jpg.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/bg.jpg"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-anydpi-v21_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-anydpi-v21/ic_baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_grafik.png.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/grafik.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_activity_setting.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-hdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-hdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-mdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-mdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-ldpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-ldpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_activity_detail.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-ldpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-ldpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_hanin.jpg.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/hanin.jpg"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-mdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-mdpi/ic_baseline_arrow_forward_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_income.png.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/income.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxxhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxxhdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-hdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-hdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.project.keuanganku.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/layout_activity_menu.xml.flat",
+        "source": "com.project.keuanganku.app-main-7:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable_cashflow.png.flat",
+        "source": "com.project.keuanganku.app-main-7:/drawable/cashflow.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxhdpi_ic_baseline_edit_calendar_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxhdpi/ic_baseline_edit_calendar_24.png"
+    },
+    {
+        "merged": "com.project.keuanganku.app-merged_res-5:/drawable-xxxhdpi_ic_baseline_arrow_forward_24.png.flat",
+        "source": "com.project.keuanganku.app-pngs-0:/drawable-xxxhdpi/ic_baseline_arrow_forward_24.png"
+    }
+]

@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.project.keuanganku"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:5:5-36:19
+12        android:allowBackup="false"
+12-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:6:9-36
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\ROG\.gradle\caches\transforms-3\09dce287f966ede6f56d2bc091f83727\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/hhh"
+15-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:7:9-37
+16        android:label="@string/keuanganku"
+16-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:8:9-43
+17        android:roundIcon="@drawable/hhh"
+17-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:9:9-42
+18        android:supportsRtl="true"
+18-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.keuanganku" >
+20-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:11:9-48
+21        <activity
+21-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:12:9-14:40
+22            android:name="com.project.keuanganku.SettingActivity"
+22-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:13:13-66
+23            android:exported="false" />
+23-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:14:13-37
+24        <activity
+24-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.project.keuanganku.DetailActivity"
+25-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:16:13-65
+26            android:exported="false" />
+26-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:18:9-20:40
+28            android:name="com.project.keuanganku.OutcomeActivity"
+28-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:19:13-66
+29            android:exported="false" />
+29-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:20:13-37
+30        <activity
+30-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:21:9-23:40
+31            android:name="com.project.keuanganku.IncomeActivity"
+31-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:22:13-65
+32            android:exported="false" />
+32-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:23:13-37
+33        <activity
+33-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:24:9-26:40
+34            android:name="com.project.keuanganku.MenuActivity"
+34-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:25:13-63
+35            android:exported="false" />
+35-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:26:13-37
+36        <activity
+36-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:27:9-35:20
+37            android:name="com.project.keuanganku.LoginActivity"
+37-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:28:13-64
+38            android:exported="true" >
+38-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:29:13-36
+39            <intent-filter>
+39-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:30:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:31:17-69
+40-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:31:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:33:17-77
+42-->C:\BISMILLAH SKRIPSI\SERTIFIKASIDIPA\SertifikasiDipaHanin\app\src\main\AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

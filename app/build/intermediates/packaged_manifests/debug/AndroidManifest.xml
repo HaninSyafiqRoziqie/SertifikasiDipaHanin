@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.project.keuanganku"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/hhh"
+        android:label="@string/keuanganku"
+        android:roundIcon="@drawable/hhh"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.keuanganku" >
+        <activity
+            android:name="com.project.keuanganku.SettingActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.project.keuanganku.DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.project.keuanganku.OutcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.project.keuanganku.IncomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.project.keuanganku.MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.project.keuanganku.LoginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
